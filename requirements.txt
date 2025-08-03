@@ -1,9 +1,10 @@
 fastapi
 pillow
 keras
-tensorflow
+tensorflow==2.19.0
 uvicorn
 numpy
 python-multipart
+
 
 
